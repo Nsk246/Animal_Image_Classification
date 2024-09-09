@@ -1,1 +1,0 @@
-# Animal_Image_Classification
