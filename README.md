@@ -50,9 +50,11 @@ To run the image classification system, follow these steps:
 
 ## Screenshots
 
-![App Screenshot](SS1.jpg)
+![App Screenshot](app_screenshots/SS1.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](app_screenshots/SS2.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](app_screenshots/SS3.jpg)
+
+![App Screenshot](app_screenshots/SS4.jpg)
 
