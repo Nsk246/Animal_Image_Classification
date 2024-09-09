@@ -27,9 +27,21 @@ To achieve accurate classification, I explored various machine learning techniqu
 - `app_screenshots/`: Contains the screenshots of the image classficiation system.
 - `classify.py`: The source code for the image classification system, including a   Gradio-based graphical user interface (GUI).
 
-- `notebooks/`: Contains Jupyter notebook for model development and training.
+- `Animal_Image_Model_Training.ipynb`: Jupyter notebook for model development and training.
 - `models/`: Output models and model checkpoints.
 - `README.md`: This file, providing an overview of the project.
+
+
+## Screenshots
+
+![App Screenshot](app_screenshots/SS1.jpg)
+
+![App Screenshot](app_screenshots/SS2.jpg)
+
+![App Screenshot](app_screenshots/SS3.jpg)
+
+![App Screenshot](app_screenshots/SS4.jpg)
+
 
 ## Getting Started
 
@@ -48,13 +60,4 @@ To run the image classification system, follow these steps:
 3. Run `classify.py`.
 4. Upload test images and run the system via the Gradio interface.
 
-## Screenshots
-
-![App Screenshot](app_screenshots/SS1.jpg)
-
-![App Screenshot](app_screenshots/SS2.jpg)
-
-![App Screenshot](app_screenshots/SS3.jpg)
-
-![App Screenshot](app_screenshots/SS4.jpg)
 
