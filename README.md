@@ -47,7 +47,7 @@ To achieve accurate classification, I explored various machine learning techniqu
 ### Training a New Model (Optional)
 A trained model (based on the orginal dataset provided) via the notebook is already saved at https://file.io/HwQgcOuBZ12m .  To train a new model:
 
-1. Run the Python notebook in `notebooks/`.
+1. Run the Python notebook. 
 2. Feel free to customize hyperparameters, batch size, datasets, and augmentation to create your own model.
 
 ### Running the Image Classification System
