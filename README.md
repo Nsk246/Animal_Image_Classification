@@ -28,7 +28,6 @@ To achieve accurate classification, I explored various machine learning techniqu
 - `classify.py`: The source code for the image classification system, including a   Gradio-based graphical user interface (GUI).
 
 - `Animal_Image_Model_Training.ipynb`: Jupyter notebook for model development and training.
-- `models/`: Output models and model checkpoints.
 - `README.md`: This file, providing an overview of the project.
 
 
@@ -46,7 +45,7 @@ To achieve accurate classification, I explored various machine learning techniqu
 ## Getting Started
 
 ### Training a New Model (Optional)
-A trained model (based on the dataset) via the notebook is already saved in `models/`. To train a new model:
+A trained model (based on the orginal dataset provided) via the notebook is already saved at https://file.io/HwQgcOuBZ12m .  To train a new model:
 
 1. Run the Python notebook in `notebooks/`.
 2. Feel free to customize hyperparameters, batch size, datasets, and augmentation to create your own model.
