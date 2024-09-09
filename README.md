@@ -1,9 +1,9 @@
 # Animal Image Classification
 
 ## Objective
-The goal of this project is to develop an image classification system capable of identifying animals in given images. The model should be able to classify 15 different species of animals.
+The goal of this project was to develop an image classification system capable of identifying animals in given images. The model should have been able to classify 15 different species of animals.
 ## Dataset
-The dataset consists of 15 folders, each containing images of dimensions 224 x 224 x 3. The classes in the dataset are:
+The orginal dataset consists of 15 folders, each containing images of dimensions 224 x 224 x 3. The classes in the dataset are:
 - Bear
 - Bird
 - Cat
@@ -21,10 +21,10 @@ The dataset consists of 15 folders, each containing images of dimensions 224 x 2
 - Zebra
 
 ## Approach
-To achieve accurate classification, we will explore various machine learning techniques, with a focus on Neural Networks and Transfer Learning. These methods are expected to provide an optimal solution for the required image classification task.
+To achieve accurate classification, I explored various machine learning techniques, with a focus on Neural Networks and Transfer Learning. These methods  provided an optimal solution for the required image classification task.
 
 ## Repository Structure
-- `dataset/`: Contains the dataset with images organized into folders by class.
+- `app_screenshots/`: Contains the screenshots of the image classficiation system.
 - `classify.py`: The source code for the image classification system, including a   Gradio-based graphical user interface (GUI).
 
 - `notebooks/`: Contains Jupyter notebook for model development and training.
