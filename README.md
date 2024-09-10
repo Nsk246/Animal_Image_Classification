@@ -29,6 +29,7 @@ To achieve accurate classification, I explored various machine learning techniqu
 
 - `Animal_Image_Model_Training.ipynb`: Jupyter notebook for model development and training.
 - `README.md`: This file, providing an overview of the project.
+- `requirements.txt`: Dependencies that are required to run the system
 
 
 ## Screenshots
@@ -58,8 +59,9 @@ A trained model (based on the orginal dataset provided) via the notebook is alre
 To run the image classification system, follow these steps:
 
 1. Clone the repository.
-2. Install the required dependencies.
+2. Install the required dependencies from `requirements.txt`.
 3. Run `classify.py`.
 4. Upload test images and run the system via the Gradio interface.
+5. You can view the predicted Animal name along with the confidence score for the predicted class.
 
 
